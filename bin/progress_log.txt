@@ -1,0 +1,23 @@
+18.3.2021
+Tehty funktiot UI:lle ja tiedon haulle verkosta. Ladattu tarvittavat kirjastot ja tehty muita alkusäätöjä.
+Kaikki toimii ja homma rokkaa!
+
+Alkusäätöihin ja Eclipsen kanssa tappelemiseen kului noin 8h, jonka jälkeen latasin Intellij:n. Projektiin kulunut aikaa
+yhteensä noin 13h.
+
+Olen mielestäni todella hyvällä mallilla projektissa.
+
+31.3.2021
+Tehty funktiot tietojen tallentamiselle sekä lukemiselle tekstitiedostosta.
+
+Aikaa kului noin 5h
+
+Olen mielestäni hyvällä mallilla projektissa
+
+13.4.2021
+
+Tehty luokka ravintoloiden ruokalistoille ja kyseistä luokkaa hyödyntäviä funktioita.
+
+aikaa kului noin 20h
+
+Projekti on muutamaa silausta vaille valmis
